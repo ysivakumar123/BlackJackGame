@@ -6,4 +6,4 @@ Your goal is to get the sum as 21 i.e you win.
 If the sum is less than 21, you have option to pick new card.
 If the sum is greater than 21, you will loose and you can't draw new card.
 
-Live link : https://blackjack-yara.netlify.app/
+## Live link : https://blackjack-yara.netlify.app/
